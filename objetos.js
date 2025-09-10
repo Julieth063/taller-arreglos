@@ -65,6 +65,7 @@ console.log(computadorPorConstructor);
 // Escribe la función constructora aquí
 
 function Producto(nombre, precio, categoria, stock, marca) {
+    
   this.nombre = nombre;
   this.precio = precio;
   this.categoria = categoria;
