@@ -62,10 +62,10 @@ computador2.procesador = "Intel Core i7";
 console.log(computadorPorConstructor);
 
 // 3. Crea una función constructora llamada `Producto` y crea dos instancias.
-// Escribe la función constructora aquí
+// Escribe la función constructora aquí hh
 
 function Producto(nombre, precio, categoria, stock, marca) {
-    
+
   this.nombre = nombre;
   this.precio = precio;
   this.categoria = categoria;
